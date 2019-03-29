@@ -1,0 +1,11 @@
+project:
+  key: ZTES
+  plan:
+    key: ZHELW
+    name: Hello World
+stages:
+  - jobs:
+      - scripts:
+          - echo 'Hello world'
+          - sleep 1
+
