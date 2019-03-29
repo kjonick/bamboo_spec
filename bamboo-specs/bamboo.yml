@@ -1,3 +1,4 @@
+---
 project:
   key: ZTES
   plan:
@@ -8,4 +9,3 @@ stages:
       - scripts:
           - echo 'Hello world'
           - sleep 1
-
