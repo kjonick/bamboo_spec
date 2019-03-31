@@ -10,4 +10,3 @@ stages:
           - echo 'Hello world'
           - sleep 1
           - echo 'Hello world 2'
-          - echo 'Hello world 3'
