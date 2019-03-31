@@ -8,5 +8,6 @@ stages:
   - jobs:
       - scripts:
           - echo 'Hello world'
-          - echo 'Hello world 2'
           - sleep 1
+          - echo 'Hello world 2'
+          - echo 'Hello world 3'
