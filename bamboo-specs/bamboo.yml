@@ -10,4 +10,5 @@ stages:
           - echo 'Hello world'
           - echo '5:27'
           - echo '7:58'
+          - echo '8:22'
           - sleep 1
