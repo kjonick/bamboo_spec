@@ -9,4 +9,5 @@ stages:
       - scripts:
           - echo 'Hello world'
           - echo '5:27'
+          - echo '7:58'
           - sleep 1
